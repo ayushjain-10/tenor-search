@@ -24,9 +24,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `app.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run
+   ```sh
+   node app.js
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
